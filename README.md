@@ -1,2 +1,3 @@
 waah
-<img width="1425" alt="image" src="https://user-images.githubusercontent.com/84644509/148668009-d220fe41-ce01-42e1-8480-383cfe806c55.png">
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/84644509/148668028-37d4ec7b-ca55-4785-b626-877ab1bb1dd8.png">
+
